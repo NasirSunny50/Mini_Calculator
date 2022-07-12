@@ -1,0 +1,11 @@
+D:\ASP NET\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+D:\ASP NET\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+D:\ASP NET\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+D:\ASP NET\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.AssemblyReference.cache
+D:\ASP NET\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.SuggestedBindingRedirects.cache
+D:\ASP NET\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Form1.resources
+D:\ASP NET\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+D:\ASP NET\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.cache
+D:\ASP NET\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+D:\ASP NET\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+D:\ASP NET\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
